@@ -10,6 +10,7 @@ module.exports = {
     siteUrl: 'https://www.yourdomain.tld',
   },
   plugins: [
+    'gatsby-plugin-postcss',
     'gatsby-plugin-image',
     {
       resolve: 'gatsby-source-filesystem',
@@ -31,7 +32,7 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-manifest',
       options: {
-        name: 'gatsby-starter-bootstrap-5',
+        name: 'gatsby-starter-tailwind-5',
         short_name: 'gb5-starter',
         start_url: '/',
         background_color: '#663399',
