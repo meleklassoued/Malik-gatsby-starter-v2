@@ -22,7 +22,7 @@ In this starter we will introduce to you many features will help you to optimize
 
 ### This starter supports :
 
-- Boostrap 5
+- Tailwind 
 - scss
 - i18next
 - hygen to : generate conventional code templates
